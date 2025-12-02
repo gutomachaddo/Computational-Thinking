@@ -1,9 +1,9 @@
-# **Exercícios (Pensamento Computacional)**
+# **Exercises (Computational Thinking)**
 
-Este repositório contém todos os exercícios realizados durante a disciplina de *Pensamento Computacional*
+This repository contains all the exercises completed during the Computational Thinking course.
 
-## Informações sobre o curso:
+## Course Information:
 
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Faculdade:** Faculdade IENH
-- **Professores:** Eduardo Isaia; Guilherme Piaia
+- **Course:** Systems Analysis and Development
+- **University:** IENH University
+- **Professors:** Eduardo Isaia; Guilherme Piaia
